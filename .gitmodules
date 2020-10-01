@@ -1,3 +1,6 @@
 [submodule "go-github"]
 	path = go-github
 	url = https://github.com/google/go-github.git
+[submodule "tour"]
+	path = tour
+	url = https://github.com/nirzari/tour.git
